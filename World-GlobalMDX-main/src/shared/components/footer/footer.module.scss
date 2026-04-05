@@ -186,7 +186,7 @@
                     background-color: var(--color-orange);
 
                     :global(.button) i{
-                        background-color: var(-color-orange);
+                        background-color: var(--color-orange);
                     }
                 }
             }
